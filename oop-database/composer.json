@@ -1,0 +1,16 @@
+{
+    "name": "htdocs/oop_database",
+    "description": "PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Muhammad Ariq Akbar",
+            "email": "ariqakbar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OOP\\App\\" : "App"
+        }
+    }
+}

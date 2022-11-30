@@ -1,0 +1,7 @@
+
+RewriteEngine On
+RewriteRule ^show/([0-9a-zA-Z]+) index.php?page=show&id=$1 [NC,L]
+
+ErrorDocument 404 /oop-database/404.html
+
+Redirect /oop-database/lama.php /oop-database/baru.php

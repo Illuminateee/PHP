@@ -1,0 +1,3 @@
+Options All -Indexes
+Redirect /mini-framework/lama.php /mini-framework/baru.php
+
